@@ -38,7 +38,4 @@ The user can choose the platform or genre or ratings for the series or movie he 
 
 It was a fun and a great learning project
 
-**Project By:
-**
-**Russa Pal
-**
+**Project By: Russa Pal**
