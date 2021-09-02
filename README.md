@@ -4,6 +4,10 @@ Well as we know now a days there are various OTT platforms  combining both three
 
 So, to resolve this issue in the project a webpage is made which integrated with Chat bot created by the help of IBM Watson Assistant and IBM cloud . The data visualization is done by the help of IBM Cognos Analytics.
 
+The below is the video link for this project demo :
+
+https://youtu.be/e5M0AKmsZqE
+
 **Datasets**
 
 Reference is taken from Kaggle
